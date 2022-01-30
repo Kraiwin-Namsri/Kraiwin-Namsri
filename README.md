@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kraiwin-Namsri
+- 🧪 I have experience with Python, PHP, HTML, CSS and some JavaScript
+- 🌱 I’m currently learning Machine Learning in Python and CUDA in Python
+- 📫 kraiwinrubian@gmail.com
