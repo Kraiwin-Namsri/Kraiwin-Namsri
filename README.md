@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Kraiwin-Namsri
 - 🧪 I have experience with Python, PHP, HTML, CSS and some JavaScript
-- 🌱 I’m currently learning Machine Learning in Python and CUDA in Python
+- 🌱 I am currently learning Machine Learning in Python and CUDA in Python
 - 📫 kraiwinrubian@gmail.com
+- 🆕 I am fairly new to programming, but understand all the basics.
+- 👨‍🎓 I want to study Computer Science
