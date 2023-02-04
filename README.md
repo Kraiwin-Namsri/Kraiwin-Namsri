@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kraiwin-Namsri.
-- 🔞 I am 17 years old.
+- 🔞 I am 18 years old.
 - 🧪 I have some experience with Python and C with ESP-IDF
 - 🌱 I am currently learning too much
 - 📫 kraiwinrubian@gmail.com
