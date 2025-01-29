@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kraiwin-Namsri.
-- 🔞 I am 19 years old.
+- 🔞 I am 20 years old.
 - 🧪 I have some experience with mainly C, python and C#
 - 🌱 I am currently learning too much
 - 📫 kraiwinrubian@gmail.com
